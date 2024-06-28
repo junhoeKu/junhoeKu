@@ -64,7 +64,7 @@ Nice to meet you, and have a nice day B-)
 | 2024.03~2024.12 | 딥러닝 논문 분석 학회 X:AI | 5기, 5기 학회원 | 수료 |
 | 2023.07~2023.12 | 데이터 분석 학회 D&A | 학회원 | 수료 |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhoeKu&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhoeKu&show_icons=true&theme=midnight-dracula)
 
 
 <br>
