@@ -45,6 +45,7 @@ Nice to meet you, and have a nice day B-)
 | 2020.03~2025.02 | 국민대학교 | 데이터사이언스(융합전공) | 졸업예정 |
 
 <br>
+
 ## 📜 Certificate  
 | 취득 연도 | 자격증 | 주관 | 유효기간 |
 |-|-|-|-|
