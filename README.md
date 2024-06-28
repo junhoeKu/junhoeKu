@@ -3,76 +3,56 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=JunhoeKu%20Github&section=header&reversal=false)
 
 ## 👋 Hi, there!
-Hi, I'm Junhoe Ku, dreaming of becoming **Data Scientist**.  
-I graduated from Kookmin University in Feburary 2025.
+Hi, I'm Junhoe Ku, dreaming of becoming **Data Scientist**.
+I will graduate from Kookmin University in Feburary 2025.
 - Major : AI, Bigdata & Management
 - Minor : Data Science
 	
 Nice to meet you, and have a nice day B-)  
 	
 ## 💜 Contact
-<img src="https://img.shields.io/badge/juminji01@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/kujoon13413@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 
 <br>
 	
 ##  ⚙️ Tech Stack
 **Languages**
 <br>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" />
-	<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" />
-	<img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=Qgis&logoColor=white" />
-	<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=MicrosoftExcel&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/>
+	<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=MicrosoftExcel&logoColor=white"/>
 <br>
 	
 **Tools**
 <br>	
-	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
-	<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white" />
-	<img src="https://img.shields.io/badge/Spyder IDE-FF0000?style=flat&logo=Spyder IDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
-	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
-	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white" />
-	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
-<br>
-	
-**Platform**
-<br>	
-	<img src="https://img.shields.io/badge/Widnows-0078D6?style=flat&logo=Windows&logoColor=white" />
-	<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white" />
-
+	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/>
+	<img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
+	<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 <br>
 
 ----
 ## 🎓 Education
 | 연도 | 학교 | 학과 | 비고 |
 | :------: | :------: | :------: | :------: |
-| 2017.03~2020.02 | 안법고등학교 | 이공계열 | 졸업 |
-| 2020.03~2024.02 | 국민대학교 | AI빅데이터융합경영학과 | 졸업(차석) |
-| 2020.03~2024.02 | 국민대학교 | 데이터사이언스(융합전공) | 졸업(차석) |
+| 2017.03~2020.02 | 계산고등학교 | 문계열 | 졸업 |
+| 2020.03~2025.02 | 국민대학교 | AI빅데이터융합경영학과 | 졸업예정 |
+| 2020.03~2025.02 | 국민대학교 | 데이터사이언스(융합전공) | 졸업예정 |
 
 <br>
-
 ## 📜 Certificate  
 | 취득 연도 | 자격증 | 주관 | 유효기간 |
 |-|-|-|-|
 |2021|SQLD|한국데이터산업진흥원|영구|
 |2022|ADsP|한국데이터산업진흥원|영구|
-|2023|빅데이터분석기사|한국데이터산업진흥원|영구|
-|2023|ADP 필기|한국데이터산업진흥원|2년|
-
+|2023|JLPT N3|일본국제교류기금|영구|
 <br>
 
-## 📝 Career  
-| 경력기간 | 기업 | 부서 | 직급 | 비고 |
-| :------: | :------: | :------: | :------: | :------: |
-| 2022.09~2022.12 | (주)틸다 | ML PoC | ML Engr Intern | 종료 |
-| 2023.03~2023.12 | (주)틸다 | ML Medical  | ML Engr Part-timer | 종료 |
-| 2024.01~ | DL E&C | 플랜트사업본부 플랜트BPI(Business Process IT)팀 | Associate (IT Manager & AI developer) | 근무중 |
 
 <br>
 
