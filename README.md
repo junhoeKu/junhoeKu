@@ -4,7 +4,7 @@
 
 ## 👋 Hi, there!
 Hi, I'm Junhoe Ku, dreaming of becoming **Data Scientist**.
-I will graduate from Kookmin University in Feburary 2025.
+I will graduate from Kookmin University in August 2025.
 - Major : AI, Bigdata & Management
 - Minor : Data Science
 	
