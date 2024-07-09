@@ -1,7 +1,7 @@
 <div align="left">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=JunhoeKu%20Github&section=header&reversal=false)
-
+  
 ## 👋 Hi, there!
 Hi, I'm Junhoe Ku.\
 I will graduate from Kookmin University in August 2025.
