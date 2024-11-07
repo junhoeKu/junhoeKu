@@ -50,7 +50,7 @@ Nice to meet you, and have a nice day B-)
 ## 🏅 Winning
 | 연도 | 이력 | 인원 | 비고 |
 | :------: | :------: | :------: | :------: |
-| 2024.08.31 | 대학생 빅데이터 연합동아리 비타민 12기 Final Conference | 7 Team | 최우수상 |
+| 2024.08.31 | 대학생 빅데이터 연합동아리 비타민 12기 Final Conference | 7 Team | 대상 |
 
 <br>
 
