@@ -5,7 +5,7 @@
 ## 👋 Hi, there!
 Hi, I'm Junhoe Ku.\
 I will graduate from Kookmin University in August 2025.
-- Major : AI, Bigdata & Management
+- Major : AI, LLM
 - Minor : Data Science
 	
 Nice to meet you, and have a nice day B-)  
