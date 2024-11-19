@@ -71,8 +71,9 @@ Nice to meet you, and have a nice day B-)
 | 2021.03 ~ 2021.05 | 경영대학 동문멘토링 연결고리 | 11기 멘티 | - |
 | 2021.12 ~ 2022.01 | 2021 겨울방학 파이썬 스터디 | 멘토 | - |
 | 2023.08 ~ 2024.08 | 대학생 빅데이터 연합 동아리 비타민 | 12기 동아리원 | 수료 |
-| 2024.03 ~ | 딥러닝 논문 분석 학회 X:AI | 5기 학회원 | 진행중 |
+| 2024.03 ~ 2024.11 | 딥러닝 논문 분석 학회 X:AI | 5기 학회원 | 수료 |
 | 2024.09 ~ 2024.12 | (주)브레인데크 | AI Engineer 인턴 | 진행중 |
+| 2025.01 ~ | 딥러닝 논문 분석 학회 X:AI | 6기 학회원 | 진행예정 |
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhoeKu&show_icons=true&theme=midnight-dracula)
 
