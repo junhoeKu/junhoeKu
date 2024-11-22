@@ -74,6 +74,15 @@ Nice to meet you, and have a nice day B-)
 | 2024.03 ~ 2024.11 | 딥러닝 논문 분석 학회 X:AI | 5기 학회원 | 수료 |
 | 2024.09 ~ 2024.12 | (주) 브레인데크 | AI Engineer 인턴 | 진행중 |
 | 2025.01 ~ | 딥러닝 논문 분석 학회 X:AI | 6기 학회원 | 진행예정 |
+
+## 🛠️ Project
+| 기간 | 분야 | 프로젝트명 | 역할 | 비고 |
+|-|-|-|-|-|
+|2023|NLP|제주어, 표준어 양방향 음성 번역 모델 생성 프로젝트|팀장|[링크](https://github.com/junhoeKu/Jeju-Translation)|
+|2024|MultiModal|반려동물 피부질환 상담 멀티모달 챗봇 구현 프로젝트|팀장|[링크](https://github.com/junhoeKu/Pet-skin-ImageCaptioning)|
+|2024|MultiModal|프롬프트에 맞는 로고 생성 프로젝트|팀원|[링크](https://github.com/junhoeKu/Logo-Generation-for-Diffusion)|
+
+<br>
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhoeKu&show_icons=true&theme=midnight-dracula)
 
