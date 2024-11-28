@@ -79,7 +79,7 @@ Nice to meet you, and have a nice day B-)
 | 기간 | 분야 | 프로젝트명 | 역할 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
 |2023| LLM | 도배 하자 질의 응답 처리 : 한솔데코 시즌2 AI 경진대회 | 팀장 | [링크](https://github.com/junhoeKu/Developing-LLM-with-dobaehaja) |
-|2023| NLP | 제주어, 표준어 양방향 음성 번역 모델 생성 프로젝트 |팀장| [링크](https://github.com/junhoeKu/Jeju-Translation) |
+|2024| NLP | 제주어, 표준어 양방향 음성 번역 모델 생성 프로젝트 |팀장| [링크](https://github.com/junhoeKu/Jeju-Translation) |
 |2024| MultiModal | 반려동물 피부질환 상담 멀티모달 챗봇 구현 프로젝트 |팀장| [링크](https://github.com/junhoeKu/Pet-skin-ImageCaptioning) |
 |2024| MultiModal | 프롬프트에 맞는 로고 생성 프로젝트 | 팀원 | [링크](https://github.com/junhoeKu/Logo-Generation-for-Diffusion) |
 |2024| STT & LLM | AI 모델을 활용한 회의 지원 솔루션 서비스 (Clerker - AI Team) | 팀원 | [링크](https://github.com/junhoeKu/clerker-ai) |
