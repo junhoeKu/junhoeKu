@@ -62,7 +62,7 @@ Nice to meet you, and have a nice day B-)
 |2023|ADsP|한국데이터산업진흥원|영구|
 |2023|JLPT N3|일본국제교류기금|영구|
   
-<br>
+<br>  
 
 ## 👩🏻 Experience
 | 활동기간 | 기관 | 명칭 | 비고 |
