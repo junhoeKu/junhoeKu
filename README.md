@@ -18,7 +18,7 @@ Nice to meet you, and have a nice day B-)
 ##  ⚙️ Tech Stack
 **Languages**
 <br>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  
  	<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/>
  	<img src="https://img.shields.io/badge/Pytest-3776AB?style=flat&logo=Pytest&logoColor=white"/>
 	<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
