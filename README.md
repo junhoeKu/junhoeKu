@@ -22,7 +22,7 @@ Nice to meet you, and have a nice day B-)
  	<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/>
  	<img src="https://img.shields.io/badge/Pytest-3776AB?style=flat&logo=Pytest&logoColor=white"/>
 	<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=MicrosoftExcel&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=MicrosoftExcel&logoColor=white"/>  
 <br>
 	
 **Tools**
