@@ -79,7 +79,8 @@ Nice to meet you, and have a nice day B-)
 ## 🛠️ Project
 | 기간 | 분야 | 프로젝트명 | 역할 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
-|2024| LLM | Role-Playing Persona LLM 제작 프로젝트 | 개인 | [링크](https://github.com/junhoeKu/LLM-Megumin) |
+|2025| LLM & RAG | Airbnb 숙소 추천 LLM 개발 프로젝트 | 팀원 | [링크](https://github.com/junhoeKu/LLM-Airbnb) |
+|2024| LLM & RAG | Role-Playing Persona LLM 제작 프로젝트 | 개인 | [링크](https://github.com/junhoeKu/LLM-Megumin) |
 |2024| STT & LLM | AI 모델을 활용한 회의 지원 솔루션 서비스 (Clerker - AI Team) | 팀원 | [링크](https://github.com/junhoeKu/clerker-ai) |
 |2024| MultiModal | 프롬프트에 맞는 로고 생성 프로젝트 | 팀원 | [링크](https://github.com/junhoeKu/Logo-Generation-for-Diffusion) |
 |2024| MultiModal | 반려동물 피부질환 상담 멀티모달 챗봇 구현 프로젝트 |팀장| [링크](https://github.com/junhoeKu/Pet-skin-ImageCaptioning) |
