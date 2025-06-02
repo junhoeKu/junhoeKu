@@ -28,8 +28,6 @@ Nice to meet you, and have a nice day B-)
 **Tools**
 <br>	
 	<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/>
-	<img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
 	<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/>
